@@ -1,0 +1,32 @@
+/*CSS file for the box-expand widget*/
+
+@keyframes txtfadein {
+    from {opacity: 0;}
+    to   { opacity: 1;}}
+
+.box-expand {
+    flex:none;
+	width: 100%;
+	text-align: center;
+	transition: transform .6s;}
+
+.box-expand img{filter: grayscale(80%);}
+
+.box-expand__content{
+display:none ;
+font-size: 12px;
+padding-bottom: 10px;}
+
+.box-expand__label-heading{
+	padding-top: 10px;
+	padding-bottom: 10px;}
+
+.box-expand:hover > .box-expand__content{
+ -webkit-animation: txtfadein .6s;
+ display: block;}
+
+.box-expand:hover {transform: scale(1.1);}
+
+.box-expand:hover img{filter: grayscale(0%);}
+
+/*
