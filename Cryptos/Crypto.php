@@ -12,9 +12,9 @@ if (!defined('ABSPATH') ){die;}
 
 function Crypto($atts, $content=null) { 
 
-       wp_register_style('Crypto_namespace', plugins_url('Crypto4.css',__FILE__ ));
+       wp_register_style('Crypto_namespace', plugins_url('Crypto.css',__FILE__ ));
        wp_enqueue_style('Crypto_namespace'); 
-       wp_register_script('Crypto_namespace_js', plugins_url( 'Crypto4.js' , __FILE__ ) );
+       wp_register_script('Crypto_namespace_js', plugins_url( 'Crypto.js' , __FILE__ ) );
        wp_enqueue_script('Crypto_namespace_js');
        wp_register_script('Crypto_namespace_js_axios','https://unpkg.com/axios/dist/axios.min.js');
        wp_enqueue_script('Crypto_namespace_js_axios');
