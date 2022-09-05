@@ -1,0 +1,37 @@
+<style>
+/* create the ribbon box */
+.ar-ribbon-left-box {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 150px;  /* it needs to create the square box */
+    height: 150px;  /* it needs to create the square box */
+    overflow: hidden; /* it will hide the element when it is overflow */
+}
+
+/* rotate the ribbon */
+.ar-ribbon-left-box .ar-elementor-ribbon-rotate {
+    /* rotate ribbon at top left of column */
+    /* you may change the value of both translateX() to meet your need */
+    -webkit-transform: translateY(-50%) translateX(-50%) translateX(45px) rotate(-45deg);
+    -ms-transform: translateY(-50%) translateX(-50%) translateX(45px) rotate(-45deg);
+    transform: translateY(-50%) translateX(-50%) translateX(45px) rotate(-45deg);
+    /* add margin-top for the ribbon. it pushes the ribbon from the left corner */
+    margin-top: 45px;
+    /* set text line-height */
+    line-height: 2;   
+    /* set center aligment */
+    text-align: center;    
+    /* set font and color */
+    color: #fff;
+    font-size: 11px;
+    font-weight: 300;
+    background-color: #d5a021;    
+}
+</style>
+
+<!-- the ribbon structure -->
+<div class="ar-ribbon-left-box">
+    <div class="ar-elementor-ribbon-rotate">NFT </div>
+</div>
