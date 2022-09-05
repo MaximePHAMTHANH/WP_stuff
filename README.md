@@ -7,5 +7,5 @@ Example: crypto API to add a crypto live chart into Wordpress with a shortcode
 
 Example: Crypto Live Converter
 
-![Crypto](Convert/Converter.PNG)
+![Crypto](Convert/Convert.PNG)
 
