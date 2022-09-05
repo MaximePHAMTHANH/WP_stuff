@@ -1,0 +1,21 @@
+.Logo{
+  height: 60px;
+  width: 60px;
+  padding: 5px;
+  background-color:white ;
+  border-radius: 0px 5px 5px 0px!important;
+
+}
+
+.numbersonly{
+  padding: 20px 10px; line-height: 35px;
+  border-radius: 5px 0px 0px 5px!important;
+
+}
+.converter{
+
+  display: flex;
+  padding: 6px!important;
+      align-items: center;
+    justify-content: center;
+}
