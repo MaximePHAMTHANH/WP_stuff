@@ -1,0 +1,157 @@
+Conditions générales de vente
+
+Toute commande passée sur le site de e-commerce XXX implique l’acceptation des conditions générales suivantes, sans réserve. Vous êtes donc invité(e) à les lire avec attention.
+
+I – Préambule
+Le site internet XXX, désigné dans les articles suivants par “le site internet” ou “le vendeur” est un e-commerce accessible via l’adresse XXX. L’éditeur du site internet est ZZZ
+YYY
+
+Le terme “client(s)” désigne ici toute personne physique majeure qui effectue une commande sur le site internet.
+
+II – Objet
+Les présentes conditions générales de vente visent à préciser les relations contractuelles entre le site internet et ses clients dans le cadre de la vente en ligne des biens proposés par le site internet XXX aux consommateurs.
+
+Ces conditions générales sont disponibles en permanence sur le site internet à l’adresse XXX. Le vendeur se réserve le droit de modifier à tout moment et sans avertissement préalable les présentes conditions générales de vente. C’est pourquoi chaque client est invité à en prendre connaissance le jour du passage de commande. Le contrat de vente d’un bien acheté sur le site se compose des conditions générales de vente en vigueur au moment de la commande et/ou du bon de commande.
+
+En acceptant ces conditions générales de vente avant toute commande, le client s’engage à être en capacité juridique de contracter.
+
+III – Produits
+Le site internet XXX présente sur son site web ses produits avec les caractéristiques minimum nécessaires qui permettent de respecter l’Article L 111-1 du Code de la consommation. Cet article prévoit la possibilité pour le client de connaître avant la prise de commande définitive les caractéristiques essentielles des produits qu’il souhaite acquérir.
+
+Les offres présentées par le site ne sont valables que dans la limite des stocks disponibles.
+
+Informations et photographies :
+
+La photographie du produit n’est pas contractuelle et fournit au client un simple aperçu du produit qu’il recevra. Les couleurs peuvent varier légèrement, par exemple en fonction du type d’outils utilisé pour visualiser les photos (écrans d’ordinateur par exemple).
+
+IV – Prix
+Les prix affichés sur le site internet sont indiqués en euros toutes taxes comprises (TTC) et hors participation aux frais d’expédition. XXX se réserve la possibilité de modifier ses prix à tout moment pour l’avenir. Le client sera facturé suivant les prix en vigueur au moment de la validation de sa commande, finalisée par l’acceptation de son paiement. Les commandes sont donc réglées comptant le jour de leur finalisation par le client, ce qui déclenche leur préparation.
+
+Pour tous les produits expédiés hors Union européenne et/ou DOM-TOM, la facture est établie en franchise de taxe. Des droits de douane ou autres taxes locales ou droits d’importation ou taxes d’état sont susceptibles d’être exigibles dans certains cas. Ces droits et sommes ne relèvent pas du ressort de XXX. Ils seront à la charge du client et relèvent de sa responsabilité (déclarations, paiement aux autorités compétentes et TVA en vigueur imposés par ses administrations douanières et fiscales ). Le client est l’importateur de la marchandise sur son territoire. Le paiement ou le remboursement de ces frais ne peut donc être obtenu de la part du vendeur. Nous conseillons à nos Clients de se renseigner sur ces aspects auprès de leurs autorités locales.
+
+V – Passage de commande et paiement
+Pour effectuer une commande, le client devra constituer son panier en sélectionnant les produits qu’il souhaite acheter. Certaines options peuvent être disponibles sur la fiche produit, en fonction des caractéristiques du produit et de la disponibilité (couleur, taille…). Ces options sont facilement accessibles (description courte à droite de la photo) et les éléments essentiels à leur sélection sont indiqués dans la fiche produit.
+
+Le client pourra ensuite consulter son panier et le modifier s’il le souhaite (ajout ou suppression de produits, modification des quantités). Après chaque modification, le client pourra sélectionner “mettre à jour le panier” pour que les prix mis à jour s’affichent.
+
+Le client va ensuite sélectionner un mode de livraison. Pour chaque mode de livraison disponible, le prix et la durée de livraison est indiquée.
+
+Le client va ensuite indiquer les informations nécessaires au passage de commande (identification du client, adresse et coordonnées). Il aura le choix de s’inscrire ou non à la Newsletter et de créer un compte ou non.
+
+Le client pourra indiquer une adresse de livraison différente de celle de facturation si nécessaire.
+
+Le client passe ensuite par une étape de vérification où il voit son panier et peut éventuellement mettre à jour son choix de mode de livraison.
+
+Pour finir, le client indique ses informations de paiement. Ces informations sont prises en compte via l’outil Stripe intégré sur le site internet. Le client pourra régler sa commande par carte bancaire Visa ou MasterCard. Les cartes émises par des banques domiciliées hors de France doivent obligatoirement être des cartes bancaires internationales (Mastercard ou Visa). Le paiement sécurisé en ligne par carte bancaire est réalisé par notre prestataire de paiement (Stripe). Les informations transmises sont chiffrées dans les règles de l’art et ne peuvent être lues au cours du transport sur le réseau. Une fois le paiement lancé par le Client, la transaction est immédiatement débitée après vérification des informations. Conformément à l’article L. 132-2 du Code monétaire et financier, l’engagement de payer donné par carte est irrévocable. En communiquant ses informations bancaires lors de la vente, le Client autorise le Vendeur à débiter sa carte du montant relatif au prix indiqué. Le Client confirme qu’il est bien le titulaire légal de la carte à débiter et qu’il est légalement en droit d’en faire usage. En cas d’erreur, ou d’impossibilité de débiter la carte, la vente est immédiatement résolue de plein droit et la commande annulée.
+
+Le vendeur se réserve le droit de suspendre toute gestion de commande et toute livraison en cas de refus d’autorisation de paiement par carte bancaire de la part des organismes officiellement accrédités ou en cas de non-paiement. Le vendeur se réserve notamment le droit de refuser d’effectuer une livraison ou d’honorer une commande émanant d’un consommateur qui n’aurait pas réglé totalement ou partiellement une commande précédente ou avec lequel un litige de paiement serait en cours d’administration
+
+Taxe sur la valeur ajoutée : les cas de la Suisse et des DOM-TOM
+
+Les produits et les frais de ports sont indiqués TTC pour les pays de l’Union Européenne. Pour les DOM-TOM ainsi que la SUISSE, et comme indiqué dans les articles 262 I du CGI & 294 2 du CGI, les marchandises et les frais de ports sont vendus nets de taxes. Le client pourra être amené à régler la TVA auprès des autorités compétentes au moment du retrait de sa commande.
+
+VI – Validation de la commande
+Pour confirmer l’enregistrement de sa commande, le client reçoit un e-mail récapitulatif de la commande avec la liste des produits sélectionnés. Toute commande est considérée confirmée dès lors que son règlement a été enregistré et validé par les organismes bancaires.
+
+Le client s’engage à vérifier l’exhaustivité et la conformité des informations renseignées dans la fiche client et lors de sa commande, notamment concernant l’adresse et le mode de livraison. Les informations de livraison sont gérées automatiquement par les logiciels d’expédition ; le vendeur ne peut ni contrôler, ni intervenir sur ces données. Il est donc très important et du ressort de l’acheteur de veiller à vérifier la saisie de ses coordonnées (adresse, code postal, ville, etc…).
+
+Le vendeur ne pourrait être tenu  pour responsable d’éventuelles erreurs de saisie et des conséquences qui en découlent (par exemple des retards ou des erreurs de livraison). Dans ce contexte, les frais engagés pour la réexpédition de la commande seraient à la charge de l’acheteur.
+
+VII – Disponibilité des produits
+Les offres de produits et leurs prix sont valables tant qu’ils sont visibles sur le site, et dans la limite des stocks disponibles. Les délais d’expédition annoncés sur le site sont en jours ouvrables et hors jours fériés. Ils sont donnés à titre indicatif (délai moyen) et ne peuvent donner lieu à une quelconque réclamation en cas de non-respect.  Les produits en stock sont généralement expédiés dans les 24 h suivant la commande.
+
+En cas d’indisponibilité d’un article après le passage de commande le client sera immédiatement prévenu des délais prévisibles de livraison par téléphone ou e-mail et la commande de cet article pourra être annulée, échangée ou laissé en attente jusqu’au ré-approvisionnement sur simple demande. En cas d’annulation, le montant correspondant aux articles non disponibles sera remboursé dans un délai de 7 jours.
+
+VIII – Modalités et frais de livraison
+Les produits sont livrés à l’adresse indiquée par le client et qui figure sur le récapitulatif  reçu par e-mail de confirmation de commande lorsqu’il a choisi la livraison à domicile.
+
+Les produits sont livrés en
+
+France métropolitaine à domicile ou via un réseau de points relais – le client choisit son point relais lors du passage de commande ;
+Union Européenne : Belgique, Allemagne, Autriche, Croatie, Danemark, Espagne, Finlande, Hongrie, Irlande, Italie, Luxembourg, Norvège, Pays-Bas, Pologne, Portugal, République Tchèque, Royaume-Uni, Slovénie, à domicile uniquement ;
+Territoire d’outre-mer : Guyane Française, Guyane, Saint-Martin (partie française), Saint Pierre et Miquelon, Saint Barthélémy, Martinique, Guadeloupe, Mayotte, La Réunion, Antarctique, Terres Australes Françaises, Guadeloupe, Polynésie Française, Wallis et Futuna, à domicile uniquement ;
+Suisse à domicile ;
+Les frais de ports sont offerts via le réseau Mondial Relay à partir de 90€ d’achats TTC : en point-relais pour la France et à domicile pour la Belgique et le Luxembourg.
+
+Les préparations et livraisons sont effectuées par un centre de logistique. De ce fait, aucun changement de point-relais ne pourra être effectué après la validation de la commande.
+
+Toute commande validée avant 14 h  est préparée dans la journée et déposée au point de collecte dans l’après-midi. Les commandes sont préparées du lundi au vendredi, sauf jours fériés. les délais de livraison courent à partir du lendemain du règlement effectué par la carte bancaire.
+
+Le vendeur s’engage à mettre en œuvre l’ensemble des moyens nécessaires au respect des dates de livraison indiquées. Aussi, dans l’hypothèse où le vendeur serait informé d’un retard de livraison, il s’engagera à avertir le client dans les plus brefs délais. Le client décidera alors du maintien ou de l’annulation totale ou partielle de sa commande.
+
+Selon l’article L.216-2 du code de la consommation, en cas de manquement du vendeur à son obligation de livraison du bien à la date ou à l’expiration du délai prévu au premier alinéa de l’article L. 216-1 ou, à défaut, au plus tard trente jours après la conclusion du contrat, le client peut résoudre le contrat, par lettre recommandée avec demande d’avis de réception ou par un e-mail en rappelant son numéro de commande et le nom utilisé pour le passage de commande.
+
+Le contrat est considéré comme résolu à la réception par le vendeur de la lettre ou de l’écrit l’informant de cette résolution, à moins que le vendeur ne se soit exécuté entre-temps.
+
+Il est alors remboursé dans les conditions de l’article L. 216-3 du code de la consommation, soit 14 jours suivants la date à laquelle le contrat a été dénoncé. En cas de livraison partielle, ce droit ne concerne que le solde non livré de la commande.
+
+IX – Réception et vérification de commande
+La livraison des produits est confiée à des transporteurs proposés par le site internet et sélectionnés par le client. Dès lors que le client ou son représentant (voisin, ami, parent, hôtesse d’accueil sur lieu de travail, concierge…) prend possession du bien, les risques de perte ou d’endommagement lui sont transférés.
+
+Aussi lors de la réception de la commande et avant le départ du transporteur, le client doit impérativement procéder à l’ouverture du ou des colis et en vérifier le contenu.
+
+Si, au moment de la vérification de la marchandise, il apparaît que celle-ci n’est pas conforme au bon de commande (erreur de préparation, produit manquant, etc…) ou qu’elle a été endommagée (carton abîmé et/ou marchandise cassée, abîmée…) pendant le transport, il faut la refuser et surtout porter des réserves précises, détaillées , datées et signées sur le bon de livraison.
+
+Dans un délai de 24h, le client informe le vendeur qu’il a refusé la commande en raison de réserves. Pour ce faire il peut en informer le service client via le formulaire de contact disponible sur le site.
+
+Attention : dès lors que le client a signé le bordereau de livraison, sans réserve précise, les responsabilités du transporteur et du vendeur sont dégagées au titre des dommages éventuellement occasionnés au cours des opérations de livraison. Il est rappelé que la mention « sous réserve de déballage » est dépourvue de toute portée légale et ne saurait dégager le client de son devoir de contrôle de l’état de la marchandise livrée.
+
+Important : si le livreur ne laisse pas le temps au client de contrôler l’état de la marchandise (qualité et quantité), pour quelque raison que ce soit, ce dernier doit impérativement le préciser sur le bordereau de transport et faire contresigner le livreur.
+
+Attention, si vous confiez la réception du produit à un tiers (concierge de votre immeuble, hôtesse d’accueil sur le lieu de travail, parent ou ami …) celui-ci reçoit le colis en votre nom et pour votre compte.
+
+X – Réclamations
+En cas de refus de colis, le vendeur ouvrira un dossier transport auprès du centre logistique afin de suivre le retour de la commande. À réception du ou des colis refusé(s), le vendeur procèdera au renvoi de la commande au client, dans la limite des stocks disponibles et selon les modalités d’achat (adresse de livraison, transporteur, etc…) stipulées sur la commande initiale.
+
+Le client pourra préférer un remboursement de sa commande. Il sera effectué sur la carte bancaire utilisée pour le paiement de la commande dans les 7 jours suivants la réception du colis refusé.
+
+En cas de réception d’un produit défectueux, non visible lors de la réception du colis, le client dispose de 15 jours pour contacter le service clients via le formulaire de contact disponible sur le site. Il joindra à son message une photo des produits défectueux. Après validation du caractère défectueux de l’article, le vendeur procèdera au remboursement de celui-ci sur le moyen de paiement effectué lors de la commande dans un délai de 7 jours ouvrés.
+
+XI - Droit de rétractation
+Conformément à l’article L. 121-20 du Code de la consommation, « le consommateur dispose d’un délai de quatorze jours francs pour exercer son droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités, à l’exception, le cas échéant, des frais de retour ». Le délai mentionné à l’alinéa précédent court à compter de la réception pour les biens ou de l’acceptation de l’offre pour les prestations de services. Si ce délai expire un samedi, un dimanche ou un jour férié ou chômé, il est prolongé jusqu’au premier jour ouvrable suivant.  Le droit de rétractation peut être exercé en contactant la société de la manière suivante : le client écrit au service clients via le formulaire de contact. Dès la réception de l’accusé de réception, le client peut renvoyer le ou les produits dûment emballés à l’adresse suivante dans un délai de 15 jours ouvrés :
+
+YYY
+
+En cas d’exercice du droit de rétractation dans le délai susmentionné, seul le prix du ou des produits achetés sera remboursé, les frais de livraison restent à la charge du Client. Les retours des produits sont à effectuer dans leur état d’origine et complets (emballage, accessoires, notice…) de sorte qu’ils puissent être recommercialisés à l’état neuf.
+
+Ce droit de rétractation s’exerce sans pénalité, à l’exception des frais de retour à la charge du client. Si toutes les conditions du droit de rétractation sont respectées, le client sera remboursé de la valeur des produits au jour de l’achat (et des frais de livraison aller s’il s’agit du retour de la commande complète) sous un délai de 14 jours maximum.
+
+Attention : conformément à l’article L. 121-20-2 du Code de la consommation, ce droit de rétractation ne peut être exercé pour les cosmétiques solides pour des raisons d’hygiène.
+
+Important : le respect de l’adresse de retour est essentiel à la bonne réception des marchandises.
+
+XII – Garantie des produits
+Conformément à la loi, le Vendeur assume deux garanties : de conformité et relative aux vices cachés des produits. En cas de défaut de conformité, le client choisit entre la réparation et le remplacement du produit. Toutefois, le vendeur peut ne pas procéder selon le choix du client si cela entraîne un coût manifestement disproportionné au regard de l’autre modalité proposée, compte tenu de la valeur du bien ou de l’importance du défaut (Article L211-9). Pour signaler un défaut de conformité, le client écrit au service client via le formulaire de contact. Le vendeur dispose d’un délai d’un mois pour accuser réception et rembourser ou remplacer le produit défectueux.
+
+Garantie contre les vices cachés
+
+Le client peut faire valoir la garantie contre les vices cachés de la chose vendue au sens de l’article 1641 du code civil, et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente (dispositions des articles 1644 du Code Civil).Pour bénéficier de cette garantie, le client doit apporter la preuve que le vice était non apparent, existant lors de l’achat et que celui-ci rend le produit impropre à l’usage auquel il est destiné ou diminue fortement cet usage. Si le client souhaite faire valoir cette garantie et apporte les preuves susmentionnées, il peut choisir le remboursement ou le remplacement du produit.
+
+Garantie commerciale 
+
+Les fabricants des produits peuvent proposer des garanties. Celle-ci sont indiquées et décrites dans la fiche du produit.
+
+De manière générale, les dysfonctionnements liés à une mauvaise utilisation ou un défaut d’entretien du produit ne sont pas couverts.
+
+XIII – Droits de propriété intellectuelle
+Les marques, noms de domaines, produits, images, vidéos, textes ou plus généralement toute information objet de droits de propriété intellectuelle sont et restent la propriété exclusive du site internet. Aucune cession de droits de propriété intellectuelle n’est réalisée au travers des présentes CGV. Toute reproduction totale ou partielle, modification ou utilisation de ces biens pour quelque motif que ce soit est strictement interdite.
+
+Toute personne ne respectant pas cette propriété s’expose à des poursuites.
+
+XIV – Force majeure
+L’exécution des obligations du vendeur au terme des présentes est suspendue en cas de survenance d’un cas fortuit ou de force majeure qui en empêcherait l’exécution. Le vendeur avisera le client de la survenance d’un tel événement dans un délai de 14 jours ouvrés. Sera considéré comme cas fortuit ou force majeure tout fait ou circonstance irrésistible, extérieur aux parties, imprévisible, inévitable, indépendant de la volonté des parties et qui ne pourra être empêché par ces dernières, malgré tous les efforts raisonnablement possibles.
+
+Dans ce cas, les deux parties se rapprochent pour déterminer les conditions éventuelles de poursuite du contrat. Si aucune poursuite du contrat n’est possible dans les 3 mois, alors la partie lésée pourra résilier les présentes conditions générales.
+
+XV – Protection des données personnelles
+Les informations demandées lors du passage de commande sont nécessaires à la bonne exécution de ses services et sont considérées comme confidentielles. Ces données pourront seulement être :
+
+partagées avec les partenaires contractuels pour assurer le bon déroulement de la préparation et livraison des commandes ;
+utilisées pour informer le client des offres commerciales et actualités pouvant intéresser le client ;
+Le client peut exercer son droit d’interrogation, d’accès, de rectification, d’opposition ou de suppression de ses données personnelles fournies ou s’opposer à ce que ces données soient utilisées pour des communications commerciales, conformément à la loi modifiée 78-17 du 6 janvier 1978 relative à « l’informatique, aux fichiers et aux libertés » en faisant la demande par e-mail via le formulaire de contact disponible ici.
+
+En adhérant à ces conditions générales de vente, le client consens à ce que XXX collecte et utilise ces données pour la réalisation du présent contrat. En saisissant son e-mail dans le champ “Newsletter” ou en cochant la case “s’abonner à la Newsletter” lors du passage de commande, le client recevra des communications commerciales et des actualité concernant XXX. Le client est libre de s’en désinscrire à tout instant en cliquant sur le lien dédié à cet effet en bas de toutes les communications.
+
+
+XVI – Droit applicable & litiges
+Toutes les clauses et opérations d’achat et de vente figurant dans les présentes conditions générales sont soumises au droit français.
