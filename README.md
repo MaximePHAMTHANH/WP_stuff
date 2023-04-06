@@ -11,5 +11,5 @@ Example: Crypto Live Converter
 
 Example: Price and Delay for Ecommerce
 
-![Calatienda](Calatienda/Calatienda.PNG)
+![CalaTienda](CalaTienda/Calatienda.PNG)
 
