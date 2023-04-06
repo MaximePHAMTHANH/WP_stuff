@@ -20,7 +20,7 @@ function CalaTienda($atts, $content=null) {
 
        if ($attributes['id']=='Livraison') {
               $text="";
-              $cart_amount=WC()->cart->cart_contents_total;
+              $cart_amount=WC()->cart->subtotal;
               if ($cart_amount==0) {$text="Bénéficiez de la livraison gratuite à partir de <big><big>100€</big></big>";}
               elseif ($cart_amount<100) {
                      $value=100-$cart_amount;
